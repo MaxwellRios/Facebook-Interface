@@ -1,6 +1,12 @@
 # facebook_interface
 
-A new Flutter project.
+
+![Facebook](https://user-images.githubusercontent.com/3016393/196211943-a4666d02-def7-477d-9a22-d0dde0c1b5af.gif) 
+
+## 🛠️ Construído com
+
+* [Flutter](https://docs.flutter.dev/) - Framework
+* [Dart](https://dart.dev/guides)      - Back-end
 
 ## Getting Started
 
